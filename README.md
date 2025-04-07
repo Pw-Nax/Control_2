@@ -1,4 +1,5 @@
-# Proyecto de Control de Motor y Sensor con C++
+# || Los Desconocidos de Siempre || 
+### Velocista en C++
 
 Este proyecto está diseñado para controlar un motor y obtener lecturas de un sensor utilizando un microcontrolador como Arduino, Bluepill o STM32. El sistema utiliza la siguiente electrónica:
 
@@ -32,8 +33,4 @@ Este proyecto tiene como objetivo implementar un sistema de seguimiento de líne
 - Librerías de control para el motor y el sensor.
 - Conexiones adecuadas entre el microcontrolador y los componentes.
 
-## Instalación
 
-1. Clona el repositorio:
-   ```bash
-   git clone https://github.com/usuario/proyecto.git
